@@ -5,6 +5,7 @@ from flask import Flask, jsonify, request, render_template, json
 from generator import password_generator_main
 # from generator import test
 import json
+from generator import *
 
 app = Flask(__name__)
 

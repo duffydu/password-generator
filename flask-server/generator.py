@@ -158,3 +158,4 @@ if __name__ == "__main__":
                                                      have_symbols, have_numbers, have_uppercase,
                                                      have_ambiguous_characters)
         print(f"Your password on iteration {i} is: {generated_password}")
+
