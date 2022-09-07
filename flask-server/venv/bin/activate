@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/duffy/Documents/Computer Science/Personal Projects/Password Manager Project/password-generator/flask-server/venv"
+VIRTUAL_ENV="/Users/duffy/Documents/Computer Science/Personal Projects/Password Manager Project/Password Generator V2/password-generator/flask-server/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
